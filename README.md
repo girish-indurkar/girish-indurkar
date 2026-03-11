@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Girish%20Indurkar&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Undergrad&descSize=22&descColor=000000&descAlignY=65" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Girish%20Indurkar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergrad&descSize=18&descAlignY=55&textBg=false"/>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
