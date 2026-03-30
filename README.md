@@ -10,8 +10,9 @@
 
 
 ## 🧠 My Focus Areas
-- Web Development
+- Artificial Intelligence and Machine Learning 
 - Data Science and Analytics
+- Web Development
 - Open source Contributor
 
 
