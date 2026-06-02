@@ -7,7 +7,7 @@
 <td width="65%">
 
 ## 📌 About Me
-- I'm a prefinal year student with a strong interest in Data Science and AI.
+- I'm a Computer Science Engineering student with a strong interest in Data Science and AI.
 - I build full-stack applications and integrate them with AI to make them faster and smarter.
 - I enjoy exploring new technologies and applying them to solve real-world problems.
 
