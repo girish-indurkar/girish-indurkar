@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Girish%20Indurkar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergrad&descSize=18&descAlignY=55&textBg=false"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Girish%20Indurkar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergrad&descSize=18&descAlignY=55&textBg=false"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Girish%20Indurkar&section=header&reversal=false&textBg=false&fontSize=40&animation=blinking&rotate=0&desc=Computer%20Science%20Undergrad)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
