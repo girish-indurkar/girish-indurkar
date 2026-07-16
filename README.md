@@ -98,7 +98,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://x.com/GIndurkar85358" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Girish Indurkar's Twitter"/></a> <a href="mailto:girishindurkar3@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Girish Indurkar's Email"/></a> <a href="https://girish-indurkar.github.io/Girish-portfolio/#" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="left"> <a href="https://x.com/GIndurkar85358" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Girish Indurkar's Twitter"/></a> <a href="mailto:girishindurkar3@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Girish Indurkar's Email"/></a> <a href="https://girish-indurkar..io/Girish-portfolio/#" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
 
 ---
